@@ -3,6 +3,7 @@
     <types>
         <members>AbsrtactBase</members>
         <members>AbstractDerived</members>
+        <members>GitClass</members>
         <members>Print_Array</members>
         <members>Result</members>
         <members>SortAscending</members>
