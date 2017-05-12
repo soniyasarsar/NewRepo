@@ -1,0 +1,4 @@
+<apex:page controller="First_class" >
+    <h1>My Page</h1>
+    <p> This is my new page </p>
+</apex:page>
