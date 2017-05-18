@@ -1,5 +1,5 @@
 public with sharing class Result {
-    public static Integer calculator(String ', Integer x, Integer Y)
+    public static Integer calculator(String sum, Integer x, Integer Y)
     {
     	Integer add;
     	add= x+y;

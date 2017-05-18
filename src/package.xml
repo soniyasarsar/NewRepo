@@ -3,10 +3,21 @@
     <types>
         <members>AbsrtactBase</members>
         <members>AbstractDerived</members>
+        <members>Even_Or_Odd</members>
+        <members>Occurence</members>
         <members>Print_Array</members>
+        <members>Query_1</members>
         <members>Result</members>
         <members>SortAscending</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Demo_Page</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
     </types>
     <version>36.0</version>
 </Package>
