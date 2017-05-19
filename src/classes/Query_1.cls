@@ -132,6 +132,12 @@ public with sharing class Query_1
    	lstAccount.add(new Account());
    	
    	Database.insert(lstAccount);
+   	
    }
+   
+   	public static void git()
+   	{
+   		
+   	}
     
 }
