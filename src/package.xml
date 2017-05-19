@@ -9,6 +9,7 @@
         <members>Query_1</members>
         <members>Result</members>
         <members>SortAscending</members>
+        <members>Summation</members>
         <name>ApexClass</name>
     </types>
     <types>

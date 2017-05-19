@@ -1,7 +1,7 @@
 public with sharing class Occurence {
 	public static void appearance(Integer num)
 	{
-		Integer[] arr = new Integer []{};
+		Integer[] arr = new Integer [10];
 		Integer rem,i;
 		for(i=0;i<10;i++)
 		{
@@ -17,8 +17,9 @@ public with sharing class Occurence {
   		{
 	      if(arr[j]>0)
 	      	{
-	      		system.debug(j + arr[j]);
-	       	}
+	      		
+	      		system.debug(j +':'+ arr[j]);
+	      	}
  	 	}
 	}
     
